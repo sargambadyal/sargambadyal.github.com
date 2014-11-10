@@ -23,6 +23,6 @@ Here's a sample "posts list".
 
 ## Also Check
 
-" yet to think "    
+" yet to think "
 
 
