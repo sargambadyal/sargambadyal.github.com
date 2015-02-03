@@ -20,7 +20,7 @@ And eventually provide the solutions that I found. Also I am planning to have a 
 
 ## Other benefits of Blogging
 
-**It helps to express out your views with the mention of facts **
+**It helps to express out your views with the mention of facts**
 **It helps to preserve you thoughts in the form of posts **
 **It helps to store the common solutions on my blog sometimes I can reuse those solutions **
 **It helps provide great learning and help for people facing similar kind of troubles**
@@ -34,6 +34,6 @@ I dont write excessively so I have planned to blog atleast once a week and alway
 ## What will be the other things that will be found in this blog
 
  Besides sharing my learning experiences, I will also link some of my open projects which anybody can use.
- 'I want to share my stuff and I will welcome any changes and improvements in code'
+ `I want to share my stuff and I will welcome any changes and improvements in code`
 
  Also, I will share all the links to other places on my blog so that I can keep in syn with my online material
