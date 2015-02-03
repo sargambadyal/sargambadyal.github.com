@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sargam Badyal's Blog Space
-tagline: Welcome Awesomness!!
+title: Sargam Badyal
+tagline: Blog Space
 ---
 {% include JB/setup %}
 
